@@ -8,7 +8,7 @@ Implementation of an integrated efficient framework solving k-budget constrained
 
 Link: TBA.
 
-More real-world test graphs (5.88G) are found in Dropbox: 
+More real-world test graphs (5.88G) are found in Dropbox: https://www.dropbox.com/s/nm2ilieqf8axq2e/data.zip?dl=0.
 
 ## Important Python Libraries
 - igraph=0.9.1

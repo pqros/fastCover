@@ -45,7 +45,7 @@ N_BATCH = 2
 ROUND = 2
 LR = 5e-4
 DS = [1]
-K_TRAINS = [50]
+K_TRAINS = [32]
 SEEDS = [42]
 MODEL_NAMES = [
     "GRAT3",
