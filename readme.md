@@ -2,7 +2,7 @@
 
 Code for the paper :
 
-"FastCover: A Self-Supervised Learning Framework for Multi-Hop Influence Maximization in Social Networks" by Anonymous.
+_FastCover: A Self-Supervised Learning Framework for Multi-Hop Influence Maximization in Social Networks_ by Anonymous.
 
 Implementation of an integrated efficient framework solving k-budget constrained d-dominating set problem (k-dDSP).
 
