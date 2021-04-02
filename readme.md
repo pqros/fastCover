@@ -13,7 +13,7 @@ More real-world test graphs (5.88G) are found in Dropbox: https://www.dropbox.co
 ## Important Python Libraries
 - igraph=0.9.1
 - torch=1.8.1
-- dgl (based on the CUDA version)
+- dgl=0.6.0 (based on the CUDA version)
 - furl=2.0.0
 - timeout-decorator=0.5.0
 
